@@ -1,8 +1,8 @@
 ﻿*{font-family:"Times New Roman";
 font-style:oblique;}
-body{ background-color: #8470FF}
+body{ background: linear-gradient(to top right, #FFFF00, #A52A2A)}
 h1{text-align: center;
-color: #00FF00;
+color: #000000;
 text-height:40px;}
 .menu{list-style:none;
 margin:2;
@@ -12,10 +12,10 @@ padding-left: 20px;
 background:linear-gradient(to top right, #FF8C00, #32CD32);}
 .menu li{display:inline-block;
 	margin-left: 20px;}
-	#left{background:#B0E2FF;
+	#left{background:#BC8F8F;
 		width: 578px;
 		float:left;}
-		#right{background:#7CFC00;
+		#right{background:#9ACD32;
 			height:100px;
 			width:674px;
 			float: right;}
@@ -23,9 +23,9 @@ background:linear-gradient(to top right, #FF8C00, #32CD32);}
 	img{max-width:390px;
 	max-height: 390px;
 	padding:10px;
-background:linear-gradient(to top left,#200, #eee);
+background:linear-gradient(to top left,#00FFFF, #eee);
 bottom:100px;
 }
-h2{background:linear-gradient( to top ,#48D1CC, #FF7F00);
+h2{background:linear-gradient( to top ,#CD5C5C, #FF7F50);
 bottom:490px;
 width:100px;}
