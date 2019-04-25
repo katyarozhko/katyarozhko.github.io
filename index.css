@@ -1,0 +1,12 @@
+body{font-family: sans-serif;
+	font-style: italic;
+	text-transform: capitalize;}
+.zovni{background-color: rgb(128,0,128);
+	width: 350px;
+	height: 330px;}
+.zseredyny{max-width: 320px;
+	height: 300px;
+	border: 15px solid blue;
+	background-color: powderblue;
+	background-image: url(http://www.nanofish.com.ua/images/product_images/popup_images/raki_kraby/korolevskij-leopardovyj-krab-parathelphusa-pantherina.jpg);
+	overflow: scroll;}
