@@ -1,0 +1,63 @@
+﻿*{font-family:"Times New Roman";
+font-style:oblique;}
+body{ background: linear-gradient(to top left, #EEE8AA, #E6E6FA)}
+         h1{text-align: center;
+                color: #000000;
+                text-height:60px;}
+.menu{list-style:none;
+margin:2;
+padding-left: 20px;}
+.menu li a {display:inline-block;
+padding-left: 20px;
+background:linear-gradient(to top left,  #FFC0CB, #FF69B4);}
+.menu li{display:inline-block;
+	margin-left: 20px;}
+   #left{background:#F08080;
+		width: 578px;  
+		float:left;}
+   #left2{background:#F08080;
+                width: 578px;
+		float:left;}
+   #left3{background:#F08080;
+                width: 578px;
+		float:left;}    
+   #right{background:#FFB6C1;
+		height:100px;
+		width:900px;
+                float: left;}
+   #cente{background:#DDA0DD;
+                float:left; }
+	 img{max-width:390px;
+	        max-height: 390px;
+	        padding:10px;
+                background:linear-gradient(to top left, #0000CD, #BA55D3);
+                bottom:100px;}
+         h2{background:linear-gradient( to top ,#CD5C5C, #FF7F50);
+                bottom:490px;
+                width:100px;}
+   #vyznachennya{background:#FFB6C1;
+                width: 577px;
+		float:left;}
+         h4{background:#dba792;
+                bottom:490px;
+                width:150px;}
+         h7{background:#dba792;
+                bottom:490px;
+                width:150px;}
+         h5{background:#dba792;
+                bottom:490px;
+                width:150px;}
+         h6{background:#dba792;
+                bottom:520px;
+                width:150px;} 
+   #intrestingfacts{background:#FFB6C1;
+                width: 577px;
+		float:center;}
+   #vyglyad{background:#FFB6C1;
+                width: 577px;
+		float:center;}
+.cente{background:#FFB6C1;
+                width: 577px;
+		float:center;}
+        
+          
